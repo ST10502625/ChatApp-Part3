@@ -1,0 +1,37 @@
+[
+  {
+    "messageID": "1234567890",
+    "recipient": "+27834557896",
+    "messageText": "Did you get the cake?",
+    "messageHash": "12:1:DIDYOUGETTHECAKE",
+    "flag": "Stored"
+  },
+  {
+    "messageID": "0987654321",
+    "recipient": "+27838884567",
+    "messageText": "Where are you? You are late! I have asked you to be on time.",
+    "messageHash": "09:2:WHEREAREYOULATEIHAVEASKEDYOUTOBEONTIME",
+    "flag": "Stored"
+  },
+  {
+    "messageID": "1122334455",
+    "recipient": "+27834484567",
+    "messageText": "Yohoooo, I am at your gate.",
+    "messageHash": "11:3:YOHOOOOOIAMATYOURGATE",
+    "flag": "Stored"
+  },
+  {
+    "messageID": "0838884567",
+    "recipient": "0838884567",
+    "messageText": "It is dinner time!",
+    "messageHash": "08:4:ITISDINNERTIME",
+    "flag": "Stored"
+  },
+  {
+    "messageID": "5566778899",
+    "recipient": "+27838884567",
+    "messageText": "Ok, I am leaving without you.",
+    "messageHash": "55:5:OKIAMLEAVINGWITHOUTYOU",
+    "flag": "Stored"
+  }
+]

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [PROG-Part3-K-Trisha]">
+  <test junit="true" thread-count="5" name="MessagesTest(failed)">
+    <classes>
+      <class name="org.junit.runner.Description">
+        <methods>
+          <include name="testReset"/>
+          <include name="testGetMessageHash"/>
+          <include name="testGetMessageID"/>
+          <include name="testPrintMessages"/>
+          <include name="testGetMessageText"/>
+          <include name="testGetRecipient"/>
+          <include name="testCheckRecipientCell"/>
+          <include name="testLoadStoredMessagesFromJSON"/>
+          <include name="testReturnTotalMessages"/>
+          <include name="testSearchByMessageID"/>
+          <include name="testDeleteByHash"/>
+          <include name="testDisplayAllStored"/>
+          <include name="testSentMessage"/>
+          <include name="testCheckMessageID"/>
+          <include name="testSearchByRecipient"/>
+          <include name="testDisplayFullReport"/>
+          <include name="testCreateMessageHash"/>
+          <include name="testGetFlag"/>
+          <include name="testSetMessageText"/>
+          <include name="testDisplayLongestMessage"/>
+        </methods>
+      </class> <!-- org.junit.runner.Description -->
+    </classes>
+  </test> <!-- MessagesTest(failed) -->
+  <test junit="true" thread-count="5" name="sendMessagesFlowTest(failed)">
+    <classes>
+      <class name="org.junit.runner.Description">
+        <methods>
+          <include name="testSomeMethod"/>
+        </methods>
+      </class> <!-- org.junit.runner.Description -->
+    </classes>
+  </test> <!-- sendMessagesFlowTest(failed) -->
+</suite> <!-- Failed suite [PROG-Part3-K-Trisha] -->
