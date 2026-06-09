@@ -1,4 +1,4 @@
-# QuickChat - PROG5121 Part 2 & 3
+# PROG5121 ChatApp Part 3
 
 A console-based Java chat application built for the PROG5121 module. The app allows a user to register, log in, and send, store, or disregard messages.
 
