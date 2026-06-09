@@ -51,4 +51,4 @@ test/
 
 ## Author
 
-Karabo — PROG5121 Assessment
+Karabo Trishia Marema — PROG5121 Assessment
