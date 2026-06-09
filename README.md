@@ -49,32 +49,6 @@ test/
 
 ---
 
-## How to Run
-
-1. Open the project in **NetBeans**
-2. Make sure the project JDK is set to Java 8 or higher
-3. Run `Main.java` as the main class
-4. Follow the on-screen prompts to register and use the app
-
----
-
-## Running Tests
-
-The project uses **JUnit 4**. In NetBeans:
-
-1. Right-click the project → **Test**
-2. Or right-click a specific test file → **Run File**
-
----
-
-## Notes
-
-- No external JSON libraries are used. `JSONArray` and `JSONObject` are custom lightweight parsers written for this project.
-- The `storedMessages.json` path is relative: `src/data/storedMessages.json`. Run the project from the project root directory.
-- Cell numbers in the stored messages data must be in `+27XXXXXXXXX` format to pass recipient validation.
-
----
-
 ## Author
 
 Karabo — PROG5121 Assessment
